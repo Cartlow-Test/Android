@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">City School</string>
+    <string name="dummy_button">City Button</string>
+    <string name="dummy_content">City\nCONTENT</string>
+</resources>

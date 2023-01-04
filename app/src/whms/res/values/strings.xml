@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WHMS</string>
+    <string name="dummy_button">WHMS Button</string>
+    <string name="dummy_content">WHMS\nCONTENT</string>
+</resources>
